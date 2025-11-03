@@ -29,9 +29,7 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 
 <img width="737" height="892" alt="recompensas" src="https://github.com/user-attachments/assets/1bb39874-2444-4478-adab-99d935339b56" />
 
-
-### Minhas Recompensas
-[Incluir recompensas que você recebeu]
-
 ### Meus Projetos
-[Incluir lista de projetos do desafio]
+* [01 - Spore](https://github.com/luctopan/balta-desafio-caca-aos-bugs-2025_1-spore)
+* [02 - Baby Demo Dog](https://github.com/luctopan/balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog)
+* [03 - Spider Monster](https://github.com/luctopan/balta-desafio-caca-aos-bugs-2025_3-spider-monster)
